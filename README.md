@@ -1,4 +1,4 @@
-# DsDPM 66
+# DsDPM 66 (An Open Paradigm Dataset for Intelligent Monitoring of Underground Drilling Scenarios in Coal Mines)
 
 
 # The link where DsDPM 66 can be obtained is as follows:
